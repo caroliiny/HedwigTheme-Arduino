@@ -9,7 +9,7 @@ O objetivo é demonstrar, de forma simples e didática, como o Arduino pode ser 
 
 ---
 
-## 🧩 Componentes utilizados
+##  Componentes utilizados
 
 - Arduino Uno  
 - Buzzer  
@@ -22,7 +22,7 @@ O objetivo é demonstrar, de forma simples e didática, como o Arduino pode ser 
 
 ---
 
-## ⚙️ Como funciona
+##  Como funciona
 
 - O Arduino executa um código contendo as notas musicais da trilha sonora de Harry Potter.
 - O **buzzer** reproduz a melodia conforme os sinais enviados pelo Arduino.
@@ -44,7 +44,7 @@ O esquema de montagem pode ser visualizado na imagem presente neste repositório
 
 ---
 
-## ▶️ Como usar
+## Como usar
 
 1. Conecte o Arduino ao computador via USB  
 2. Abra o código na **IDE do Arduino**
@@ -53,7 +53,7 @@ O esquema de montagem pode ser visualizado na imagem presente neste repositório
 
 ---
 
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 
 Projeto desenvolvido com fins **educacionais**, para a disciplina de Hardware III, com foco no aprendizado de:
 - Programação com Arduino
